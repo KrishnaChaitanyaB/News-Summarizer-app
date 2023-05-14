@@ -1,0 +1,9 @@
+These are the packages required for running this application so make to install these packages before trying it.
+
+Pillow
+newspaper3k
+urllib3
+streamlit
+beautifulsoup4
+protobuf==3.20.0
+jinja2>=3.0
