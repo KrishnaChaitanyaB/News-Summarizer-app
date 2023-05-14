@@ -3,8 +3,7 @@ This file shows the procedure to run this application.
 1.Open CMD in working directory.
 
 2.Run following command.
-
-pip install -r requirements.txt
+Install all the packages given in requirements.txt file using pip install -r package_name
 
 3.App.py is the main Python file of Streamlit Web-Application.
 
