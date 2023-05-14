@@ -1,4 +1,4 @@
-These are the packages required for running this application so make to install these packages before trying it.
+These are the packages required for running this application so make sure to install these packages before trying it.
 
 Pillow
 newspaper3k
