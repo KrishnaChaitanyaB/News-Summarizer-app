@@ -1,3 +1,5 @@
+This file shows the procedure to run this application.
+
 1.Open CMD in working directory.
 
 2.Run following command.
